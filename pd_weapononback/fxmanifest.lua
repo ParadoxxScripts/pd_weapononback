@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Real Weapons'
+description 'ParadoxDev - Weaponsonback'
 
 version '0.2.0'
 
