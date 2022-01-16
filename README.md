@@ -1,8 +1,6 @@
 This is script for weapons on back
 
 
-This is my interior pack, i hope i enjoy this pack..
-
 
 Instalation:
 1) put the file in to the resource folder
